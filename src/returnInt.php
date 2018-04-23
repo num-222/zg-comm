@@ -5,6 +5,6 @@ class returnInt
 {
 	public static function dump()
 	{
-		return 1;
+		return 2;
 	}
 }
