@@ -11,5 +11,9 @@
             "email": "948482273@qq.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "psr-4" : {
+    		"zg\\":"src/",
+		"zg\\helper\\":"helper",
+    }
 }
