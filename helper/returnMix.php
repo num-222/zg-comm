@@ -5,6 +5,6 @@ class returnMix
 {
 	public function dump()
 	{
-		return 'hello'.123;
+		return 'hello'.'123';
 	}
 }
