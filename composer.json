@@ -12,10 +12,4 @@
         }
     ],
     "minimum-stability": "stable",
-    "autoload" : {
-	    "psr-4" : {
-	    		"zg\\":"src/",
-			"zg\\helper\\":"helper/"
-	    }
-    }
 }
